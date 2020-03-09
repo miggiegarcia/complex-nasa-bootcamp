@@ -65,3 +65,6 @@ fetch("https://data.nasa.gov/resource/gvk9-iz74.json")
     //         console.log(`error ${err}`)
     //         alert("sorry, there are no results for your search")
     //     });
+
+
+// worked on this code with group members: Ken, Sam, Shane, Zikre, and Chi + the help of mentors Philip and George
